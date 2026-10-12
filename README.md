@@ -64,6 +64,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 <a href="mailto:ibrahim.hamed.almahdy@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ibrahim-almahdy-eng/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
