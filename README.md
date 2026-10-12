@@ -57,12 +57,18 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.hamed.almahdy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-almahdy-eng/)
+<a href="mailto:ibrahim.hamed.almahdy@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/ibrahim-almahdy-eng/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
 
 </div>
+
+
 
