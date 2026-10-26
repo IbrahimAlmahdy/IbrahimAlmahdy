@@ -50,14 +50,13 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
+
 ### DevOps & Tooling
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,npm,vscode,visualstudio)](https://skillicons.dev)
 
-
-
-
- 
+<br/>
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -76,6 +75,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
+
 
 
 
