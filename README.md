@@ -64,18 +64,30 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 <div align="center">
 
 <a href="https://github.com/IbrahimAlmahdy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Ibrahim's GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/IbrahimAlmahdy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlmahdy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlmahdy&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img
+  src="https://streak-stats.demolab.com?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true"
+  alt="Ibrahim's GitHub Streak"
+/>
 
 </div>
+
 
 
 
