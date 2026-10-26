@@ -58,12 +58,13 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 <br/>
 <br/>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/IbrahimAlmahdy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" />
 </a>
 
 <a href="https://github.com/IbrahimAlmahdy">
@@ -75,6 +76,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
+
 
 
 
