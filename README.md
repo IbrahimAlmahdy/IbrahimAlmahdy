@@ -56,25 +56,25 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Ibrahim-Almahdy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Almahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+<a href="https://github.com/IbrahimAlmahdy">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Ibrahim-Almahdy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Almahdy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<a href="https://github.com/IbrahimAlmahdy">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlmahdy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Almahdy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
 
 
 
