@@ -18,24 +18,22 @@
   alt="Coding"
 />
 
-I'm a Software Engineer focused on building **modern, scalable, and user-friendly web applications**, with a strong focus on Frontend Development.
+[Coding](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-I care about more than just making things work.
+I'm a **Software Engineer** passionate about building modern, scalable, and user-friendly web applications.
 
 I focus on:
 
-- 🎨 Modern & Responsive Frontend Development
-- ⚛️ React & Next.js Applications
-- 🧩 Clean and Maintainable Code
-- 🏗️ Scalable Frontend Architecture
-- ⚡ Performance & User Experience
-- 🔌 API Integration & Backend Communication
-- 🛠️ Developer Tools & Modern Development Workflows
-- 📱 Responsive Web Design
+- ⚛️ Building modern applications with React.js and Next.js
+- 🎨 Creating responsive and intuitive user interfaces
+- 🧩 Writing clean, maintainable, and reusable code
+- ⚡ Improving application performance and user experience
+- 🔌 Integrating REST APIs and connecting frontend applications with backend services
+- 🏗️ Developing full-stack applications with modern web technologies
 
-I'm currently expanding my skills in **Node.js, Express.js, PostgreSQL, and MongoDB** to build complete applications from frontend to backend.
+I'm expanding my full-stack skills with **Node.js, Express.js, TypeScript, PostgreSQL, and MongoDB**, while continuing to build and improve real-world projects.
 
-My goal is to become a **Full-Stack Developer** capable of building reliable, scalable, and impactful products from the ground up.
+My goal is to build reliable, scalable, and impactful applications from frontend to backend.
 
 
 
