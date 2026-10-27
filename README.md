@@ -36,6 +36,16 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 <br clear="right"/>
 
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" alt="C++, JavaScript, TypeScript" />
+</p>
+
+
+<br clear="right"/>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
