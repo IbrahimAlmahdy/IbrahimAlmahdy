@@ -3,21 +3,14 @@
 
 # Hey, I'm Ibrahim Almahdy 👋
 
-### Front-End Developer | Aspiring Full-Stack Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
-
-<br/>
+### Software Engineer | Full-Stack Developer
 
 <a href="https://ibrahimalmahdy.com">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-ibrahimalmahdy.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio" />
-</a>
-
-<a href="https://github.com/Ibrahim-Almahdy">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub" />
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-0A66C2?style=for-the-badge&labelColor=1F2937" alt="My Portfolio" />
 </a>
 
 </div>
+
 
 ##  About Me
 
