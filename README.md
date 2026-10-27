@@ -38,15 +38,11 @@ My goal is to build reliable, scalable, and impactful applications from frontend
 
 <br clear="right"/>
 
-
-
 ## 🧠 Data Structures & Algorithms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6A5ACD?style=flat-square&logo=thealgorithms&logoColor=white" height="48" alt="DSA" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6A5ACD?style=flat-square&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms" />
 </p>
-
 
 <br clear="right"/>
 
