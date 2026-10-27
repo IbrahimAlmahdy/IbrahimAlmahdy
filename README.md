@@ -1,15 +1,12 @@
 
 <div align="center">
 
-# Hey, I'm Ibrahim Almahdy 👋
+# <a href="https://ibrahimalmahdy.com">Ibrahim Almahdy</a> 👋
 
-### Software Engineer | Full-Stack Developer
-
-<a href="https://ibrahimalmahdy.com">
-  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-0A66C2?style=for-the-badge&labelColor=1F2937" alt="My Portfolio" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB)](https://git.io/typing-svg)
 
 </div>
+
 
 
 ##  About Me
