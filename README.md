@@ -1,4 +1,4 @@
-# Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.vercel.app/) 👋
+# Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.com) 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=false&width=650&lines=Frontend+Developer;React+%E2%9A%9B+Next.js+%E2%9A%9B+TypeScript;Building+Modern+Web+Applications;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
