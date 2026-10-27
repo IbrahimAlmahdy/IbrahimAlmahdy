@@ -38,6 +38,17 @@ My goal is to build reliable, scalable, and impactful applications from frontend
 
 <br clear="right"/>
 
+
+<br/>
+
+## 🧠 Data Structures & Algorithms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-DSA-6A5ACD?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms" />
+</p>
+
+<br clear="right"/>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
