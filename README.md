@@ -1,6 +1,11 @@
+
+<div align="center">
+
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.com) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=false&vCenter=false&width=650&lines=Frontend+Developer;React+%E2%9A%9B+Next.js+%E2%9A%9B+TypeScript;Building+Modern+Web+Applications;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB)](https://git.io/typing-svg)
+
+</div>
 
 
 
