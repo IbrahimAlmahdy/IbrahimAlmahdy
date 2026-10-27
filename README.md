@@ -18,7 +18,6 @@
   alt="Coding"
 />
 
-[Coding](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 I'm a **Software Engineer** passionate about building modern, scalable, and user-friendly web applications.
 
