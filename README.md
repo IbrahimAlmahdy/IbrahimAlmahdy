@@ -19,7 +19,8 @@
 />
 
 
-I'm a **Software Engineer** passionate about building modern, scalable, and user-friendly web applications.
+
+I'm expanding my full-stack skills with **React.js, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and MongoDB**, while continuing to build and improve real-world projects.
 
 I focus on:
 
