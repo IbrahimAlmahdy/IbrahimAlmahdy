@@ -2,7 +2,7 @@
 
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.com) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Front-End+Engineer;React.js+%7C+Next.js+%7C+TypeScript;Backend+Development+with+Node.js+%26+Express.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+Engineer;React.js+%7C+Next.js+%7C+TypeScript)](https://git.io/typing-svg)
 
 </div>
 
