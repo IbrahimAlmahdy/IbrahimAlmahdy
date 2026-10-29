@@ -1,11 +1,12 @@
 <div align="center">
-  
+
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.com) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Front-End+Engineer;React.js+%7C+Next.js+%7C+TypeScript;Backend+Development+with+Node.js+%26+Express.js)](https://git.io/typing-svg)
+
 </div>
 
-##  About Me
+## 👨‍💻 About Me
 
 <img
   align="right"
@@ -14,19 +15,21 @@
   alt="Coding"
 />
 
-I'm a **Software Engineer** passionate about building modern, scalable, and user-friendly web applications.
+I'm a **Software Engineer specializing in Front-End Development**, passionate about building modern, responsive, and user-friendly web applications.
 
-I focus on:
-- ⚛️ Building modern applications with React.js and Next.js
-- 🎨 Creating responsive and intuitive user interfaces
-- 🧩 Writing clean, maintainable, and reusable code
+My primary focus is on:
+- ⚛️ Building modern web applications with React.js and Next.js
+- 🟦 Developing scalable and type-safe applications using TypeScript
+- 🎨 Creating responsive, accessible, and intuitive user interfaces
+- 🧩 Writing clean, reusable, and maintainable code
 - ⚡ Improving application performance and user experience
 - 🔌 Integrating REST APIs and connecting frontend applications with backend services
-- 🏗️ Developing full-stack applications with modern web technologies
 
-I'm expanding my full-stack skills with **React.js, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, and MongoDB**, while continuing to build and improve real-world projects.
+I also have knowledge of **Back-End Development** using Node.js and Express.js, along with working with **MongoDB and PostgreSQL** databases.
 
-My goal is to build reliable, scalable, and impactful applications from frontend to backend.
+I'm continuously learning, improving my technical skills, and building practical projects to strengthen my software engineering foundations and deliver high-quality web applications.
+
+My goal is to build efficient, maintainable, and scalable applications while creating seamless user experiences.
 
 <br clear="right"/>
 
