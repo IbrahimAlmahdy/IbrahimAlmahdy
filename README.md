@@ -105,6 +105,6 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 
 </div>
 
+<br/><br/>
 
-<img width="1055" height="318" alt="image" src="https://github.com/user-attachments/assets/c63a0e7b-253d-4713-a39c-844727d1f477" />
-
+<img src="https://raw.githubusercontent.com/IbrahimAlmahdy/IbrahimAlmahdy/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
