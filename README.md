@@ -104,3 +104,7 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 </a>
 
 </div>
+
+
+<img width="1055" height="318" alt="image" src="https://github.com/user-attachments/assets/c63a0e7b-253d-4713-a39c-844727d1f477" />
+
