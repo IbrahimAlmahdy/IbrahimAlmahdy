@@ -66,6 +66,7 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/>
 <br/>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,7 +74,7 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <a href="https://github.com/IbrahimAlmahdy">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     alt="Ibrahim's GitHub Stats"
   />
 </a>
@@ -94,6 +95,7 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 />
 
 </div>
+
 
 ## 🔗 Connect with Me
 <div align="center">
