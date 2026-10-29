@@ -67,34 +67,21 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/>
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/IbrahimAlmahdy">
   <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
     alt="Ibrahim's GitHub Stats"
   />
 </a>
 
-<a href="https://github.com/IbrahimAlmahdy">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlmahdy&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</a>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=IbrahimAlmahdy&theme=tokyonight&hide_border=true"
-  alt="Ibrahim's GitHub Streak"
-/>
-
 </div>
+
 
 
 ## 🔗 Connect with Me
