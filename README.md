@@ -80,11 +80,13 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 
 <br/><br/>
 
+
 <!-- Total Commits Only -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=false&hide_rank=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Total%20Commits&theme=tokyonight&hide_border=true"
-  alt="Total GitHub Commits"
+  src="https://github-stats-extended.vercel.app/api?username=IbrahimAlmahdy&custom_title=Total%20Commits&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=false&show_icons=false&include_all_commits=true&theme=tokyonight&hide_border=true"
+  alt="Ibrahim's Total GitHub Commits"
 />
+
 
 </div>
 
