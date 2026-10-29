@@ -67,13 +67,12 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/>
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  src="https://github-stats-extended.vercel.app/api?username=Ibrahim-Almahdy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=IbrahimAlmahdy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
   alt="Ibrahim's GitHub Stats"
 />
 
