@@ -88,6 +88,14 @@ My goal is to build efficient, maintainable, and scalable applications while cre
   alt="Ibrahim's Total GitHub Commits"
 />
 
+<br/><br/>
+
+<!-- Total Pull Requests -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ibrahimalmahdy&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+/>
+
 
 </div>
 
