@@ -1,0 +1,74 @@
+
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate GitHub commits
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/graphql \
+            -d '{"query":"query { search(query: \"author:IbrahimAlmahdy\", type: COMMIT) { totalCount } }"}')
+
+          echo "$RESPONSE"
+
+          COUNT=$(echo "$RESPONSE" | jq -r '.data.search.totalCount // empty')
+
+          if [ -z "$COUNT" ]; then
+            echo "Failed to retrieve commit count"
+            exit 1
+          fi
+
+          echo "COMMIT_COUNT=$COUNT" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+
+          start = "<!-- TOTAL_COMMITS_START -->"
+          end = "<!-- TOTAL_COMMITS_END -->"
+
+          if start not in content or end not in content:
+              raise SystemExit("README markers are missing")
+
+          section = (
+              start + "\n"
+              + f"**Total Commits:** {os.environ['COMMIT_COUNT']}\n"
+              + end
+          )
+
+          before, remainder = content.split(start, 1)
+          _, after = remainder.split(end, 1)
+
+          path.write_text(before + section + after, encoding="utf-8")
+          PY
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update GitHub commit statistics"
+          git push
