@@ -69,11 +69,11 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/>
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Streak -->
 <img
   src="https://streak-stats.demolab.com/?user=IbrahimAlmahdy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
   alt="GitHub Streak Statistics"
@@ -81,12 +81,15 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 
 <br/><br/>
 
-<!-- Total Commits -->
 <!-- TOTAL_COMMITS_START -->
-**Total Commits:** 113
+<img
+  src="https://img.shields.io/badge/TOTAL%20COMMITS-113-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
+  alt="Total Commits"
+/>
 <!-- TOTAL_COMMITS_END -->
 
 </div>
+
 
 
 ## 🔗 Connect with Me
