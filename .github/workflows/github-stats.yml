@@ -53,33 +53,12 @@ jobs:
               if "errors" in result:
                   raise RuntimeError(json.dumps(result["errors"]))
 
-              if "data" not in result or result["data"] is None:
-                  raise RuntimeError("GitHub returned no GraphQL data")
+              if not result.get("data"):
+                  raise RuntimeError("GitHub returned no data")
 
               return result["data"]
 
-          years_query = """
-          query($login: String!) {
-            user(login: $login) {
-              login
-              contributionYears
-            }
-          }
-          """
-
-          user = graphql(
-              years_query,
-              {"login": USERNAME}
-          )["user"]
-
-          if user is None:
-              raise RuntimeError(f"GitHub user {USERNAME} was not found")
-
-          years = user["contributionYears"]
-
-          total_commits = 0
-
-          commits_query = """
+          query = """
           query($login: String!, $from: DateTime!, $to: DateTime!) {
             user(login: $login) {
               contributionsCollection(from: $from, to: $to) {
@@ -89,16 +68,19 @@ jobs:
           }
           """
 
-          for year in years:
+          now = datetime.now(timezone.utc)
+          total_commits = 0
+
+          for year in range(2008, now.year + 1):
               start = f"{year}-01-01T00:00:00Z"
 
-              if year == datetime.now(timezone.utc).year:
-                  end = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+              if year == now.year:
+                  end = now.isoformat().replace("+00:00", "Z")
               else:
                   end = f"{year + 1}-01-01T00:00:00Z"
 
               data = graphql(
-                  commits_query,
+                  query,
                   {
                       "login": USERNAME,
                       "from": start,
@@ -106,13 +88,18 @@ jobs:
                   }
               )
 
-              count = data["user"]["contributionsCollection"]["totalCommitContributions"]
+              user = data.get("user")
+
+              if user is None:
+                  raise RuntimeError("GitHub user was not found")
+
+              count = user["contributionsCollection"]["totalCommitContributions"]
 
               total_commits += count
 
               print(f"{year}: {count} commit contributions")
 
-          print(f"All-time commit contributions: {total_commits}")
+          print(f"Total commit contributions: {total_commits}")
 
           with open(os.environ["GITHUB_ENV"], "a") as env_file:
               env_file.write(f"COMMIT_COUNT={total_commits}\n")
@@ -151,7 +138,7 @@ jobs:
               encoding="utf-8"
           )
 
-          print(f"README updated: {count}")
+          print(f"README updated with {count} commits")
           PY
 
       - name: Commit updated statistics
