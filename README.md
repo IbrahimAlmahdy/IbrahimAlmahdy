@@ -68,9 +68,6 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/>
 <br/>
 
-
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -83,6 +80,13 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 
 <br/><br/>
 
+<!-- Total Commits -->
+<!-- TOTAL_COMMITS_START -->
+**Total Commits:** Calculating...
+<!-- TOTAL_COMMITS_END -->
+
+<br/><br/>
+
 <!-- GitHub Contributions -->
 <img
   src="https://github-stats-extended.vercel.app/api?username=IbrahimAlmahdy&custom_title=GitHub%20Contributions&show=contributions&show_icons=false&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight&hide=stars,issues,prs"
@@ -90,9 +94,6 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 />
 
 </div>
-
-
-
 
 ## 🔗 Connect with Me
 <div align="center">
