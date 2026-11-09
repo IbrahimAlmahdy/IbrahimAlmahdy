@@ -1,7 +1,8 @@
 <div align="center">
 
-
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.com) 👋
+
+🔒 **Most of my projects are currently private, but I'm continuously working on new projects and expanding my portfolio.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript)](https://git.io/typing-svg)
 
