@@ -82,10 +82,7 @@ My goal is to build efficient, maintainable, and scalable applications while cre
 <br/><br/>
 
 <!-- TOTAL_COMMITS_START -->
-<img
-  src="https://img.shields.io/badge/TOTAL%20COMMITS-113-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
-  alt="Total Commits"
-/>
+<img src="https://img.shields.io/badge/TOTAL%20COMMITS-116-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="Total Commits"/>
 <!-- TOTAL_COMMITS_END -->
 
 </div>
