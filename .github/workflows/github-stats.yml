@@ -96,7 +96,6 @@ jobs:
               count = user["contributionsCollection"]["totalCommitContributions"]
 
               total_commits += count
-
               print(f"{year}: {count} commit contributions")
 
           print(f"Total commit contributions: {total_commits}")
@@ -106,8 +105,6 @@ jobs:
           PY
 
       - name: Update README
-        env:
-          COMMIT_COUNT: ${{ env.COMMIT_COUNT }}
         run: |
           python - <<'PY'
           import os
@@ -124,9 +121,17 @@ jobs:
 
           count = os.environ["COMMIT_COUNT"]
 
+          badge = (
+              '<img src="https://img.shields.io/badge/'
+              f'TOTAL%20COMMITS-{count}-0D1117'
+              '?style=for-the-badge&logo=github'
+              '&logoColor=58A6FF&labelColor=161B22" '
+              'alt="Total Commits"/>'
+          )
+
           section = (
               f"{start}\n"
-              f"**Total Commits:** {count}\n"
+              f"{badge}\n"
               f"{end}"
           )
 
@@ -138,7 +143,7 @@ jobs:
               encoding="utf-8"
           )
 
-          print(f"README updated with {count} commits")
+          print(f"README badge updated: {count}")
           PY
 
       - name: Commit updated statistics
